@@ -1,4 +1,4 @@
-# ETG_Inventory_Projects
+# ETG_Inventory_Management_Projects
 It is a Bill generator project
 It is a JSON Based Inventory management Assignment
 We can add items in the inventory and also we can purchase items from the inventory 
